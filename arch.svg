@@ -1,0 +1,82 @@
+<svg width="680" height="740" viewBox="0 0 680 740" xmlns="http://www.w3.org/2000/svg" font-family="Arial, sans-serif">
+  <rect width="680" height="740" fill="#FFFFFF"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <text x="40" y="30" font-size="11" fill="#999999">1. entrada</text>
+  <line x1="95" y1="26" x2="640" y2="26" stroke="#DDDDDD" stroke-width="0.5"/>
+  <rect x="40" y="38" width="160" height="56" rx="8" fill="#FAEEDA" stroke="#FAC775" stroke-width="0.5"/>
+  <text x="120" y="62" font-size="13" font-weight="bold" fill="#412402" text-anchor="middle" dominant-baseline="central">Alvo web</text>
+  <text x="120" y="81" font-size="11" fill="#854F0B" text-anchor="middle" dominant-baseline="central">labs.cai.do · vulncart</text>
+  <line x1="200" y1="66" x2="228" y2="66" stroke="#BA7517" stroke-width="1.2" marker-end="url(#arrow)" fill="none"/>
+  <rect x="230" y="38" width="200" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="330" y="62" font-size="13" font-weight="bold" fill="#042C53" text-anchor="middle" dominant-baseline="central">Caido Proxy</text>
+  <text x="330" y="81" font-size="11" fill="#185FA5" text-anchor="middle" dominant-baseline="central">intercepta em localhost:8080</text>
+  <line x1="430" y1="66" x2="458" y2="66" stroke="#888780" stroke-width="1" marker-end="url(#arrow)" fill="none"/>
+  <rect x="460" y="38" width="180" height="56" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+  <text x="550" y="62" font-size="13" font-weight="bold" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">MCP server</text>
+  <text x="550" y="81" font-size="11" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">caido-mcp-server</text>
+  <path d="M550 94 L550 148 L420 148 L420 192" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <text x="490" y="143" font-size="11" fill="#185FA5" text-anchor="middle">protocolo MCP</text>
+  <text x="40" y="176" font-size="11" fill="#999999">2. orquestrador</text>
+  <line x1="120" y1="172" x2="640" y2="172" stroke="#DDDDDD" stroke-width="0.5"/>
+  <rect x="40" y="204" width="130" height="44" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+  <text x="105" y="222" font-size="12" font-weight="bold" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">CLAUDE.md</text>
+  <text x="105" y="238" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">instruções globais</text>
+  <line x1="170" y1="226" x2="192" y2="226" stroke="#888780" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
+  <rect x="194" y="184" width="260" height="80" rx="10" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="324" y="210" font-size="14" font-weight="bold" fill="#26215C" text-anchor="middle" dominant-baseline="central">Claude Code</text>
+  <text x="324" y="230" font-size="11" fill="#534AB7" text-anchor="middle" dominant-baseline="central">orquestrador central — v2.1.152</text>
+  <text x="324" y="248" font-size="11" fill="#534AB7" text-anchor="middle" dominant-baseline="central">roteia skills e subagentes</text>
+  <line x1="454" y1="224" x2="476" y2="224" stroke="#534AB7" stroke-width="1.2" marker-end="url(#arrow)" fill="none"/>
+  <rect x="478" y="184" width="162" height="80" rx="8" fill="#F0EEFF" stroke="#AFA9EC" stroke-width="0.5"/>
+  <text x="559" y="210" font-size="13" font-weight="bold" fill="#26215C" text-anchor="middle" dominant-baseline="central">Subagentes</text>
+  <text x="559" y="230" font-size="11" fill="#534AB7" text-anchor="middle" dominant-baseline="central">35 especialistas</text>
+  <text x="559" y="248" font-size="11" fill="#534AB7" text-anchor="middle" dominant-baseline="central">~/.claude/agents/</text>
+  <path d="M194 250 L158 250 L158 318 L192 318" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+  <text x="136" y="290" font-size="11" fill="#888780" text-anchor="middle">lê</text>
+  <text x="40" y="308" font-size="11" fill="#999999">3. recursos</text>
+  <line x1="90" y1="304" x2="640" y2="304" stroke="#DDDDDD" stroke-width="0.5"/>
+  <rect x="40" y="316" width="142" height="56" rx="8" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+  <text x="111" y="339" font-size="12" font-weight="bold" fill="#04342C" text-anchor="middle" dominant-baseline="central">Skills defensivas</text>
+  <text x="111" y="357" font-size="10" fill="#0F6E56" text-anchor="middle" dominant-baseline="central">754 workflows MITRE</text>
+  <rect x="202" y="316" width="142" height="56" rx="8" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+  <text x="273" y="339" font-size="12" font-weight="bold" fill="#4A1B0C" text-anchor="middle" dominant-baseline="central">Skills ofensivas</text>
+  <text x="273" y="357" font-size="10" fill="#993C1D" text-anchor="middle" dominant-baseline="central">38 técnicas red team</text>
+  <rect x="364" y="316" width="142" height="56" rx="8" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+  <text x="435" y="339" font-size="12" font-weight="bold" fill="#042C53" text-anchor="middle" dominant-baseline="central">Requisições HTTP</text>
+  <text x="435" y="357" font-size="10" fill="#185FA5" text-anchor="middle" dominant-baseline="central">IDOR · SQLi · XSS</text>
+  <rect x="526" y="316" width="114" height="56" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+  <text x="583" y="339" font-size="12" font-weight="bold" fill="#2C2C2A" text-anchor="middle" dominant-baseline="central">findings.sh</text>
+  <text x="583" y="357" font-size="10" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">SQLite persistente</text>
+  <path d="M550 94 L640 94 L640 344 L508 344" fill="none" stroke="#185FA5" stroke-width="1" stroke-dasharray="3 2" marker-end="url(#arrow)" opacity="0.45"/>
+  <path d="M273 316 L273 283 L324 283 L324 266" fill="none" stroke="#888780" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)"/>
+  <path d="M364 344 L324 344 L324 266" fill="none" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)"/>
+  <line x1="583" y1="316" x2="559" y2="266" stroke="#888780" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
+  <line x1="324" y1="372" x2="324" y2="446" stroke="#3B6D11" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
+  <text x="340" y="412" font-size="11" fill="#3B6D11" text-anchor="start">pipeline de análise</text>
+  <text x="40" y="432" font-size="11" fill="#999999">4. saída</text>
+  <line x1="80" y1="428" x2="640" y2="428" stroke="#DDDDDD" stroke-width="0.5"/>
+  <rect x="40" y="440" width="186" height="56" rx="8" fill="#EAF3DE" stroke="#97C459" stroke-width="0.5"/>
+  <text x="133" y="463" font-size="13" font-weight="bold" fill="#173404" text-anchor="middle" dominant-baseline="central">Relatório HTML</text>
+  <text x="133" y="482" font-size="11" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">CVSS · OWASP · MITRE</text>
+  <rect x="240" y="440" width="186" height="56" rx="8" fill="#EAF3DE" stroke="#97C459" stroke-width="0.5"/>
+  <text x="333" y="463" font-size="13" font-weight="bold" fill="#173404" text-anchor="middle" dominant-baseline="central">Finding IDOR</text>
+  <text x="333" y="482" font-size="11" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Critical · CVSS 9.1</text>
+  <rect x="440" y="440" width="200" height="56" rx="8" fill="#EAF3DE" stroke="#97C459" stroke-width="0.5"/>
+  <text x="540" y="463" font-size="13" font-weight="bold" fill="#173404" text-anchor="middle" dominant-baseline="central">Finding SQLi</text>
+  <text x="540" y="482" font-size="11" fill="#3B6D11" text-anchor="middle" dominant-baseline="central">Score 91/100 · 4 vetores</text>
+  <rect x="40" y="528" width="600" height="56" rx="8" fill="#F8F8F6" stroke="#DDDDDD" stroke-width="0.5"/>
+  <line x1="60" y1="551" x2="98" y2="551" stroke="#888780" stroke-width="1" stroke-dasharray="4 3" marker-end="url(#arrow)" fill="none"/>
+  <text x="106" y="555" font-size="11" fill="#5F5E5A">lê skill / instrução</text>
+  <line x1="222" y1="551" x2="260" y2="551" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrow)" fill="none"/>
+  <text x="268" y="555" font-size="11" fill="#5F5E5A">protocolo MCP</text>
+  <line x1="372" y1="551" x2="410" y2="551" stroke="#3B6D11" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
+  <text x="418" y="555" font-size="11" fill="#5F5E5A">gera finding</text>
+  <line x1="60" y1="573" x2="98" y2="573" stroke="#BA7517" stroke-width="1.2" marker-end="url(#arrow)" fill="none"/>
+  <text x="106" y="577" font-size="11" fill="#5F5E5A">tráfego interceptado</text>
+  <line x1="222" y1="573" x2="260" y2="573" stroke="#534AB7" stroke-width="1.2" marker-end="url(#arrow)" fill="none"/>
+  <text x="268" y="577" font-size="11" fill="#5F5E5A">roteia subagente</text>
+</svg>
