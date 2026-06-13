@@ -79,7 +79,7 @@ A partir daqui, o guia completo cobre:
 **Para receber o guia completo:**
 
 - 💼 [LinkedIn — Joabe Kachorroski](https://www.linkedin.com/in/joabekachorroski)
-- 🐛 Abra uma [Issue](../../issues/new?title=Solicitar+guia+de+instalação&body=Olá!+Gostaria+de+receber+o+guia+completo+de+instalação+do+Pentest+AI+Lab.) com o título **"Solicitar guia"**
+-  🐛 Ou clique aqui [Caido AI Driven](https://caidoaidriven.com/) e **"adquira o guia completo."**
 
 ---
 
