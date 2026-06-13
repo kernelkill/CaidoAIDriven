@@ -209,6 +209,6 @@ O uso em sistemas sem autorização explícita é ilegal e de responsabilidade e
 
 **O mesmo analista. Dez vezes mais capacidade.**
 
-*Desenvolvido e validado por [Joabe Kachorroski](https://www.linkedin.com/in/joabekachorroski) — Senior Cybersecurity Specialist, MPMS*
+*Desenvolvido e validado por [Joabe Kachorroski](https://kachorroskicyber.com/) — Senior Cybersecurity Specialist, MPMS*
 
 </div>
