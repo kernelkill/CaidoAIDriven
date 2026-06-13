@@ -126,7 +126,7 @@ Você pode usar os dois na mesma sessão.
 ```bash
 # Criar engajamento por cliente
 findings.sh init cliente-a --client "Cliente A" --type web --scope "app.clientea.com.br"
-findings.sh init mpms-2026 --client "MPMS"     --type web --scope "*.mp.ms.gov.br"
+findings.sh init mpms-2026 --client "GOV"     --type web --scope "*.qualquerorgao.gov.br"
 
 # Alternar entre clientes
 export PENTEST_AI_ENGAGEMENT="cliente-a"
@@ -187,7 +187,7 @@ O guia completo está disponível sob solicitação. Ele inclui:
 **Para receber o guia, entre em contato:**
 
 - 💼 [LinkedIn — Joabe Kachorroski](https://www.linkedin.com/in/joabekachorroski)
-- 🐛 Abra uma [Issue](../../issues/new?title=Solicitar+guia+de+instalação&body=Olá!+Gostaria+de+receber+o+guia+completo+de+instalação+do+Pentest+AI+Lab.) neste repositório com o título **"Solicitar guia"**
+- 🐛 Ou clique aqui [Caido AI Driven](https://caidoaidriven.com/) e **"adquira o guia completo."**
 
 ---
 
