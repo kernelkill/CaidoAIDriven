@@ -188,6 +188,7 @@ O guia completo está disponível sob solicitação. Ele inclui:
 
 - 💼 [LinkedIn — Joabe Kachorroski](https://www.linkedin.com/in/joabekachorroski)
 - 🐛 Ou clique aqui [Caido AI Driven](https://caidoaidriven.com/) e **"adquira o guia completo."**
+- 🎓 O curso completo de CaidoAIDriven será disponibilizado na [Oversecurity](https://www.oversecurity.com.br/treinamentos/)
 
 ---
 
